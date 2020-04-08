@@ -1,0 +1,7 @@
+Osama's Primary Setup:
+jt -t grade3 -T -N -kl -nfs 14 -f roboto
+
+Features:
+- Roboto Font
+- grade3 Theme
+- 14 Font size for non-text cells
